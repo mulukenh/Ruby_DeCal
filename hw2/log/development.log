@@ -7119,3 +7119,249 @@ Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:44:09 -070
 
 
 Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:44:09 -0700
+
+
+Started GET "/" for ::1 at 2016-09-28 13:45:34 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-09-28 13:45:36 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 25ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:45:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:45:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:45:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:45:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:45:36 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:45:38 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:45:38 -0700
+
+
+Started GET "/" for ::1 at 2016-09-28 13:45:42 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:45:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:45:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:45:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:45:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:45:42 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:45:44 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:45:44 -0700
+
+
+Started GET "/" for ::1 at 2016-09-28 13:48:00 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 38ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:48:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:48:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:48:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:48:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:48:00 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:48:09 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:48:09 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:48:13 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:50:36 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:50:36 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:50:49 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:50:49 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:51:12 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:51:12 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:57:14 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:57:14 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:58:40 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:58:40 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 13:58:51 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:58:51 -0700
