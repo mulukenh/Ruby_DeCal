@@ -7365,3 +7365,99 @@ Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 13:58:51 -0700
 
 
 Started GET "/assets/mul.png" for ::1 at 2016-09-28 13:58:51 -0700
+
+
+Started GET "/" for ::1 at 2016-09-28 17:15:29 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 73ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 17:15:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 17:15:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 17:15:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 17:15:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 17:15:30 -0700
+
+
+Started GET "/me" for ::1 at 2016-09-28 17:15:35 -0700
+Processing by PagesController#me as HTML
+  Rendered pages/me.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mul.png" for ::1 at 2016-09-28 17:15:35 -0700
+
+
+Started POST "/stringify" for ::1 at 2016-09-28 17:15:49 -0700
+Processing by PagesController#stringify as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"j3hCmyt0J3GjJ0a0PdqmFMH/ckH7+mnaWXEcqSRQ9chC5khlXU2CoQN6MLd7QjjQIAI+ppbv0hSuZZ9cNGqHLA==", "name"=>"Samuel", "adjective"=>"Nasty", "commit"=>"Stringify!"}
+  Rendered pages/stringify.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 17:15:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 17:15:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 17:15:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 17:15:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 17:15:49 -0700
+
+
+Started PUT "/age" for ::1 at 2016-09-28 17:16:02 -0700
+Processing by PagesController#person as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"j3hCmyt0J3GjJ0a0PdqmFMH/ckH7+mnaWXEcqSRQ9chC5khlXU2CoQN6MLd7QjjQIAI+ppbv0hSuZZ9cNGqHLA==", "name"=>"Sam", "age"=>"45", "commit"=>"Submit!"}
+  Rendered pages/person.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 25ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 17:16:02 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 17:16:02 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 17:16:02 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 17:16:02 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 17:16:02 -0700
+
+
+Started POST "/stringify" for ::1 at 2016-09-28 17:16:32 -0700
+Processing by PagesController#stringify as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"j3hCmyt0J3GjJ0a0PdqmFMH/ckH7+mnaWXEcqSRQ9chC5khlXU2CoQN6MLd7QjjQIAI+ppbv0hSuZZ9cNGqHLA==", "name"=>"<marquee>Samuel</marquee>", "adjective"=>"Nasty", "commit"=>"Stringify!"}
+  Rendered pages/stringify.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for ::1 at 2016-09-28 17:16:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2016-09-28 17:16:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for ::1 at 2016-09-28 17:16:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for ::1 at 2016-09-28 17:16:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2016-09-28 17:16:32 -0700
