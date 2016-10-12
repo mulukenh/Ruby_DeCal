@@ -1,0 +1,15 @@
+<% if flash[:notice] %>
+    <h3><%= flash[:notice] %></h3>
+<% end %>
+
+<html>
+    <h1> Users, Cats and Todos</h1>
+    <h2> Click one of the links to view the corresponding entries: </h2>
+    <%= link_to "View all", :show%>
+    <br>
+    <%= link_to "Add Cats", :new_cat%>
+    <br>
+    <%= link_to "Add Todos", :new_todo%>
+    <br>
+    <%= link_to "Add Users", :new_user%>
+</html>

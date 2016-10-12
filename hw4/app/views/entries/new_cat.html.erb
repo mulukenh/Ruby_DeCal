@@ -1,0 +1,9 @@
+<h1> Add Cats</h1>
+
+<%= form_tag :new_cats do %>
+  <%= label_tag :name, "Cat Name" %>
+  <%= text_area_tag :name %>
+  <%= submit_tag "Add" %>
+<% end %>
+
+

@@ -1,0 +1,9 @@
+<h1> Add Todos</h1>
+
+<%= form_tag :new_todos do %>
+  <%= label_tag :task, "Enter Task" %>
+  <%= text_area_tag :task %>
+  <%= label_tag :finished, "Finished" %>
+  <%= text_area_tag :finished %>
+  <%= submit_tag "Add" %>
+<% end %>

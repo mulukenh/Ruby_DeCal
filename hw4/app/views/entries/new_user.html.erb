@@ -1,0 +1,11 @@
+<h1> Add Users</h1>
+
+<%= form_tag :new_users do %>
+  <%= label_tag :username, "User Name" %>
+  <%= text_area_tag :username %>
+  <%= label_tag :email, "Email" %>
+  <%= text_area_tag :email %>
+  <%= label_tag :age, "Age" %>
+  <%= text_area_tag :age %>
+  <%= submit_tag "Add" %>
+<% end %>
